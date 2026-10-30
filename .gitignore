@@ -2,3 +2,5 @@
 .venv/
 __pycache__/
 data/raw/
+data/chroma/
+data/processed/chunks_*.jsonl

@@ -1,0 +1,427 @@
+{
+  "collection": "azure-512",
+  "metrics": {
+    "all": {
+      "n": 42,
+      "recall@5": 0.571,
+      "mrr": 0.401
+    },
+    "dogrudan": {
+      "n": 25,
+      "recall@5": 0.56,
+      "mrr": 0.398
+    },
+    "parafraz": {
+      "n": 10,
+      "recall@5": 0.5,
+      "mrr": 0.239
+    },
+    "sayisal": {
+      "n": 7,
+      "recall@5": 0.714,
+      "mrr": 0.641
+    }
+  },
+  "rows": [
+    {
+      "id": "q001",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.6183484792709351,
+      "top1_doc": "kvkk-karar-2026-1183"
+    },
+    {
+      "id": "q002",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.7054222822189331,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q003",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.6689865589141846,
+      "top1_doc": "kvkk-karar-2024-197"
+    },
+    {
+      "id": "q004",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.6017643213272095,
+      "top1_doc": "kvkk-karar-2024-197"
+    },
+    {
+      "id": "q005",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 5,
+      "top1_score": 0.63443523645401,
+      "top1_doc": "kvkk-karar-2024-1361"
+    },
+    {
+      "id": "q006",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.7025588154792786,
+      "top1_doc": "kvkk-karar-2024-540"
+    },
+    {
+      "id": "q007",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.6158627271652222,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q008",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.7139012813568115,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q009",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.6070223450660706,
+      "top1_doc": "kvkk-yonetmelik-silme"
+    },
+    {
+      "id": "q010",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 4,
+      "top1_score": 0.5781232118606567,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q011",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.5846338868141174,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q012",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.5919888615608215,
+      "top1_doc": "kvkk-yonetmelik-silme"
+    },
+    {
+      "id": "q013",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.6462559700012207,
+      "top1_doc": "kvkk-yonetmelik-silme"
+    },
+    {
+      "id": "q014",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.7200743556022644,
+      "top1_doc": "kvkk-yonetmelik-silme"
+    },
+    {
+      "id": "q015",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 6,
+      "top1_score": 0.431366503238678,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q016",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 6,
+      "top1_score": 0.7687868475914001,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q017",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.5962728261947632,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q018",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.6445518136024475,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q019",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 6,
+      "top1_score": 0.5924970507621765,
+      "top1_doc": "kvkk-karar-2024-197"
+    },
+    {
+      "id": "q020",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.6314647197723389,
+      "top1_doc": "kvkk-karar-2024-1393"
+    },
+    {
+      "id": "q021",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.7096512317657471,
+      "top1_doc": "kvkk-karar-2024-292"
+    },
+    {
+      "id": "q022",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.7102032899856567,
+      "top1_doc": "kvkk-karar-2024-2158"
+    },
+    {
+      "id": "q023",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.6497955918312073,
+      "top1_doc": "kvkk-karar-2024-540"
+    },
+    {
+      "id": "q024",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.609646201133728,
+      "top1_doc": "kvkk-karar-2024-1350"
+    },
+    {
+      "id": "q025",
+      "type": "dogrudan",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.582373321056366,
+      "top1_doc": "kvkk-karar-2022-714"
+    },
+    {
+      "id": "q026",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.5014998912811279,
+      "top1_doc": "kvkk-karar-2024-284"
+    },
+    {
+      "id": "q027",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.5956020355224609,
+      "top1_doc": "kvkk-karar-2022-714"
+    },
+    {
+      "id": "q028",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": 5,
+      "top1_score": 0.5114324688911438,
+      "top1_doc": "kvkk-karar-2024-197"
+    },
+    {
+      "id": "q029",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.5902701616287231,
+      "top1_doc": "kvkk-karar-2023-2007"
+    },
+    {
+      "id": "q030",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": 2,
+      "top1_score": 0.5343891382217407,
+      "top1_doc": "kvkk-karar-2024-444"
+    },
+    {
+      "id": "q031",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": 3,
+      "top1_score": 0.5102846026420593,
+      "top1_doc": "kvkk-karar-2024-1350"
+    },
+    {
+      "id": "q032",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.5196614861488342,
+      "top1_doc": "kvkk-karar-2026-1183"
+    },
+    {
+      "id": "q033",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": 9,
+      "top1_score": 0.5680904984474182,
+      "top1_doc": "kvkk-karar-2024-284"
+    },
+    {
+      "id": "q034",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": 4,
+      "top1_score": 0.572347104549408,
+      "top1_doc": "kvkk-karar-2024-1361"
+    },
+    {
+      "id": "q035",
+      "type": "parafraz",
+      "answerable": true,
+      "rank": null,
+      "top1_score": 0.45714402198791504,
+      "top1_doc": "kvkk-karar-2026-1183"
+    },
+    {
+      "id": "q036",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 8,
+      "top1_score": 0.687484860420227,
+      "top1_doc": "kvkk-karar-2026-1183"
+    },
+    {
+      "id": "q037",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.6077831983566284,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q038",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.6208804249763489,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q039",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.472805917263031,
+      "top1_doc": "kvkk-yonetmelik-silme"
+    },
+    {
+      "id": "q040",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 1,
+      "top1_score": 0.682104229927063,
+      "top1_doc": "kvkk-yonetmelik-silme"
+    },
+    {
+      "id": "q041",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 4,
+      "top1_score": 0.6949023604393005,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q042",
+      "type": "sayisal",
+      "answerable": true,
+      "rank": 9,
+      "top1_score": 0.6455104947090149,
+      "top1_doc": "kvkk-karar-2023-1017"
+    },
+    {
+      "id": "q043",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.46954798698425293,
+      "top1_doc": "kvkk-karar-2024-1898"
+    },
+    {
+      "id": "q044",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5144028663635254,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q045",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5602152943611145,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q046",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5405669808387756,
+      "top1_doc": "kvkk-yonetmelik-sicil"
+    },
+    {
+      "id": "q047",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5431036949157715,
+      "top1_doc": "kvkk-karar-2026-1183"
+    },
+    {
+      "id": "q048",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5367721915245056,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q049",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5531255006790161,
+      "top1_doc": "kvkk-6698"
+    },
+    {
+      "id": "q050",
+      "type": "cevapsiz",
+      "answerable": false,
+      "rank": null,
+      "top1_score": 0.5771580338478088,
+      "top1_doc": "kvkk-karar-2024-1361"
+    }
+  ]
+}
